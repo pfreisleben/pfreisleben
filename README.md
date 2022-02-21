@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pedro Freisleben
-- 👀 I’m interested in Node.JS/SQL/LINUX/HTML/CSS
+- 👀 I’m interested in Node.JS/NestJS/TypeScript/SQL/LINUX/HTML/CSS
 - 🌱 I’m currently learning TypeScript, NestJS, Prisma, Postgres and WebSockets.
 <!---
 pfreisleben/pfreisleben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
