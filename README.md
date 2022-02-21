@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-freisleben-a06564171/)
 
 ![Pedro Freisleben GitHub stats](https://github-readme-stats.vercel.app/api?username=pfreisleben&show_icons=true&theme=dracula&count_private=true)
-[![Pedro Freisleben Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfreisleben)](https://github.com/anuraghazra/github-readme-stats)
+![Pedro Freisleben Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfreisleben)(https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
